@@ -58,13 +58,7 @@ This project replicates a **simple and elegant chat screen UI** using **Flutter*
 ---
 
 ##  UI Preview
-### UI provided
 
-  ![CleanShot 2025-07-01 at 12 50 27@2x](https://github.com/user-attachments/assets/7d9976d6-3155-4948-a316-21ce839719f3)
-
-### Replicated UI
-
-  ![Screenshot_1751351088](https://github.com/user-attachments/assets/72cbc188-d30e-4bd3-99bf-bc976e91cd1b)
 
 
 ## Widget Tree
