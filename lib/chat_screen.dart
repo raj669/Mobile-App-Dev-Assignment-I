@@ -34,13 +34,13 @@ class _ChatScreenState extends State<ChatScreen> {
       date: DateTime.now(),
     ),
     ChatMessage(
-      text: "Hello! Rajbir, How are you?",
+      text: "Hello! Kritika, How are you?",
       time: "9:25 AM",
       isSender: false,
       date: DateTime.now(),
     ),
     ChatMessage(
-      text: "You did your job bad!",
+      text: "You did your job well!",
       time: "9:25 AM",
       isSender: true,
       date: DateTime.now(),
